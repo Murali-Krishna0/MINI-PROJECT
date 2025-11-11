@@ -1,0 +1,25 @@
+voter_id,Name,Gender,Zone,City,Passw,hasVoted
+10001,Deep,Male,West,Gandhinagar,abcd,1
+10002,Prachi,Female,South,Surat,abcd,1
+10003,Het,Male,East,Surat,abcd,1
+10004,Shivanshi,Female,East,Gandhinagar,abcd,1
+10005,Rohan,Male,North,Bengaluru,abcd,1
+10006,Murali Krishna S,Male,Poonamallee,Chennai,p,1
+10007,Kml,Male,Ekambaram street,Tindivanam,d,1
+10008,Pradeep,Male,Thengal,Katpadi,a,1
+10009,Pradeep,Male,Thengal,Katpadi,a,1
+10010,Jana Krishna,Male,Poonamallee,Chennai,j,1
+10011,velu,Male,thengal,katpadi,v,1
+10012,Vijayan P,Male,Guduvancherry,Chennai,v,1
+10013,Rashith,Male,Chettiyarthope,Kumbakkonam,r,1
+10014,Rashith,Male,ChettiyarThope,Kumbakkonam,r,1
+10015,vijayan,Male,chennai,chennai,p,1
+10016,Prem,Male,Poonamallee,Chennai,n,0
+10017,Naresh,Male,Ambattur,Chennai,n,0
+10018,Naresh,Male,Ambattur,Chennai,n,0
+10019,Naresh,Male,Triplicane,Chennai,b,1
+10020,Vensan,Male,Tiruvallur,tiruvallur,v,1
+10021,Gokul,Male,Thandalam,Chennai,g,1
+10022,Keshav,Male,Royapettah,Chennai,k,1
+10023,ALLWIN R,Male,Poonamallee,Chennai,080808,1
+10024,Murali Krishna S,Male,Poonamallee,Chennai,m,1
